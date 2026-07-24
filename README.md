@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently building **full-stack AI projects** using React and Node.js.<br>- 🌱 I’m currently focused on learning **Data Science** and **Cybersecurity**, with a goal of bridging the gap between web development, data, and security.<br>- 💡 My workflow involves translating **Figma** designs into pixel-perfect code and using **Obsidian** for project planning and documentation.<br>
+🔭 I’m currently building **full-stack AI projects** using React and Node.js.<br>- 🌱 I’m currently focused on learning **Data Science** and **Cybersecurity**, with a goal of bridging the gap between web development, data, and security.<br>- 💡 My workflow involves translating **Figma** designs into pixel-perfect code and using **Obsidian** for project planning and documentation.<br>
 
 
 ## 🌐 Socials:
