@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building **full-stack AI projects** using React and Node.js.<br>🌱 I’m currently focused on learning **Data Science** and **Cybersecurity**, with a goal of bridging the gap between web development, data, and security.<br>💡 My workflow involves translating **Figma** designs into pixel-perfect code and using **Obsidian** for project planning and documentation.<br>
-
+🔭 I’m currently building **full-stack AI projects** using React and Node.js.<br>🌱 I’m currently focused on learning **Data Science** and **Cybersecurity**, with a goal of bridging the gap between web development, data, and security.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-harris-tabassum) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harristabassum151@gmail.com) 
